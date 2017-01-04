@@ -28,6 +28,7 @@
 #import "XLFormRowDescriptorViewController.h"
 #import "XLFormRowDescriptor.h"
 
+NS_CLASS_DEPRECATED_IOS(3_2, 9_0)
 @interface XLFormOptionsViewController : UITableViewController<XLFormRowDescriptorViewController, XLFormRowDescriptorPopoverViewController>
 
 - (instancetype)initWithStyle:(UITableViewStyle)style;

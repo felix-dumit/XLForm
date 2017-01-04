@@ -34,6 +34,7 @@
 
 @end
 
+NS_CLASS_DEPRECATED_IOS(3_2, 9_0)
 @protocol XLFormRowDescriptorPopoverViewController <NSObject>
 
 @required
